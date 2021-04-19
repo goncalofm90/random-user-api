@@ -1,4 +1,4 @@
-# Random User Generator
+# Random User Generator 👤
 
 ## A simple app using the random user API , React Bootstrap and axios.
 
